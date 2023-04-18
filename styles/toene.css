@@ -1,0 +1,77 @@
+.toene-img {
+    height: 50%;
+}
+.button-container {
+    height: 50%;
+    width: 100%;
+    box-sizing: border-box;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: center;
+}
+button {
+    height: 100%;
+    flex-grow: 1;
+    border: none;
+}
+.white {
+    background-color: white;
+    color: black;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+}
+.white#E {
+    border-right-width: 1px;
+}
+.white#F {
+    border-left-width: 1px;
+}
+.black {
+    background-color: black;
+    color: white;
+    height: 70%;
+}
+.white:hover {
+    background-color: rgb(219, 219, 219);
+}
+.black:hover {
+    background-color: rgb(44, 44, 44);
+}
+button:hover {
+    cursor: grab;
+}
+button.backButton#backButton {
+    height: auto;
+    position: fixed;
+    top: 2vw;
+    right: 2vw;
+    font-family: "Agrandir";
+    background-color: black;
+    color: white;
+    padding: 1vw;
+    text-align: center;
+    box-sizing: border-box;
+    border: 2px solid white;
+    cursor: default;
+}
+a {
+    width: 100%;
+    height: 100%;
+    color: white;
+    text-decoration: none;
+}
+.settings {
+    position: fixed;
+    bottom: 1vw;
+    right: 1vw;
+    background-color: black;
+    padding: 1vw;
+}
+input {
+    
+}
+label {
+    color: white;
+}

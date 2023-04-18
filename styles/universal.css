@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'Agrandir';
+    src: url("fonts/Agrandir-GrandHeavy.woff2") format("woff2"),url("fonts/Agrandir-GrandHeavy.woff") format("woff");
+    font-weight: 800;
+    font-style: normal
+}
+body {
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+    margin: 0;
+    background-image: url("../images/background/background.jpg");
+    background-size: cover;
+}
+.container {
+    position: absolute;
+    box-sizing: border-box;
+    width: 50vw;
+    height: 60vh;
+    margin: 20vh 0px 0px 25vw;
+    background-color: white;
+    padding: 2vh 2vh;
+    text-align: center;
+}
+.score {
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    font-family: "Agrandir";
+}
+
+/* @MEDIA STUFF */
+@media screen and (max-width: 860px) {
+    body {
+        background-image: none;
+        background-color: white;
+    }
+    .container {
+        width: 100vw;
+        margin-left: 0;
+    }
+}
