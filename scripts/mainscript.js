@@ -8,7 +8,7 @@ let falseInputs = 0;
 function submit(input) {
 	if (input == "einmannhubschrauber") return window.open("http://www.henrimoe.de/", "_self");
 
-	if (input == "veredus") return window.open("http://www.veredus.de/", "_self");
+	if (["musik", "music", "sheetmusic", "sheetmusicquizz", "sheetmusicquiz"].includes(input)) return window.open("sheet-music-quizz/index.html", "_self");
 
 	document.getElementById('codeinput').value = "";
 	falseInputs += 1;

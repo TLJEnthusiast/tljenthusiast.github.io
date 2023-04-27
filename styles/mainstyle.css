@@ -130,3 +130,25 @@ body {
 iframe {
 	margin: 0 auto;
 }
+.project2 {
+	position: static;
+	display: grid;
+	justify-content: center;
+	align-content: center;
+	align-items: center;
+	height: 100vh;
+	width: 100vw;
+	background-color: brown;
+}
+.musicbutton {
+	z-index: 100;
+	background-color: black;
+	padding: 20px;
+	border-radius: 5px;
+	font-size: 1.3rem;
+	font-family: "Agrandir", Calibri;
+	color: white;
+	text-decoration: none;
+	transition:  transform 600ms, color 600ms, background-color 600ms;
+	transition-timing-function: ease-in-out;
+}
