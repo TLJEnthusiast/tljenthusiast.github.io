@@ -1,19 +1,69 @@
-html {
-    background-color: rgb(22, 22, 22);
+@font-face {
+    font-family: 'Agrandir';
+    src: url("fonts/Agrandir-GrandHeavy.woff2") format("woff2"),url("fonts/Agrandir-GrandHeavy.woff") format("woff");
+    font-weight: 800;
+    font-style: normal
 }
-h1 {
+html {
+    background-color: black;
+}
+body {
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+}
+h2 {
     color: brown;
+    text-align: center;
+    font-family: Agrandir;
 }
 h3 {
     color: brown;
+    font-family: Agrandir;
+}
+.container {
+    width: 40vw;
+    /* height: 70vh; */
+    margin: 15vh 0px 0px 30vw;
+    background-color: rgb(22, 22, 22);
+    position: absolute;
+    padding: 30px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
 }
 .inputtextarea {
     display: block;
     margin-bottom: 20px;
+    justify-content: center;
 }
 .submit-button {
     display: block;
 }
+.team-container {
+    position: absolute;
+    width: 15vw;
+    height: 100vh;
+    padding: 50px 10px 10px 10px;
+    box-sizing: border-box;
+    text-align: center;
+}
+.team1-container {
+    left: 0;
+}
+.team2-container {
+    right: 0;
+}
 p {
     color: white;
+    font-size: 2rem;
+    font-family: Agrandir;
+}
+.hidden {
+    opacity: 0;
+    transition: opacity 4s ease-in-out;
+}
+.show {
+    opacity: 1;
 }
