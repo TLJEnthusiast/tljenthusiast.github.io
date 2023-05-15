@@ -10,8 +10,15 @@ function random_main() {
     };
     console.log(team1, team2);
     
-    document.getElementById("team1").innerHTML = team1;
-    document.getElementById("team2").innerHTML = team2;
+    document.getElementById("team1").innerHTML = "<h3>Team 1</h3>"
+    for (let i = 0; i != team1.length; i++) {
+        document.getElementById("team1").innerHTML = document.getElementById("team1").innerHTML + `<p>${team1[i]}</p>`;
+    }
+
+    document.getElementById("team2").innerHTML = "<h3>Team 2</h3>"
+    for (let i = 0; i != team2.length; i++) {
+        document.getElementById("team2").innerHTML = document.getElementById("team2").innerHTML + `<p>${team2[i]}</p>`;
+    }
 
     // cleanup
     [allnames, team1, team2] = [[], [], []];

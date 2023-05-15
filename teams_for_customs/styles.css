@@ -4,12 +4,15 @@ html {
 h1 {
     color: brown;
 }
+h3 {
+    color: brown;
+}
 .inputtextarea {
     display: block;
     margin-bottom: 20px;
 }
 .submit-button {
-
+    display: block;
 }
 p {
     color: white;
