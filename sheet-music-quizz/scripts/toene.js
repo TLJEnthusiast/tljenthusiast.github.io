@@ -127,3 +127,35 @@ for (let i = 0; i < buttonContainer.children.length; i++) {
     document.getElementById(buttonContainer.children[i].id).addEventListener("click", function () {buttonPressed(buttonContainer.children[i].id)});
 }
 
+// Allow Keyboard inputs 
+document.addEventListener("keypress", function(event) {
+    keyboardinput = event.key.toLowerCase()
+    console.log(keyboardinput);
+    // if (keyboardinput == "y") {
+    //     buttonPressed("C")
+    //     return
+    // }
+    switch (keyboardinput) {
+        case "y": 
+        buttonPressed("C");
+        return;
+        case "x": 
+        buttonPressed("D");
+        return;
+        case "c": 
+        buttonPressed("E");
+        return;
+        case "v": 
+        buttonPressed("F");
+        return;
+        case "b": 
+        buttonPressed("G");
+        return;
+        case "n": 
+        buttonPressed("A");
+        return;
+        case "m": 
+        buttonPressed("H");
+        return;  
+    }
+})
