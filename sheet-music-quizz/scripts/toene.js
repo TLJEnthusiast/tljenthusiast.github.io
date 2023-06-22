@@ -131,31 +131,16 @@ for (let i = 0; i < buttonContainer.children.length; i++) {
 document.addEventListener("keypress", function(event) {
     keyboardinput = event.key.toLowerCase()
     console.log(keyboardinput);
-    // if (keyboardinput == "y") {
-    //     buttonPressed("C")
-    //     return
-    // }
-    switch (keyboardinput) {
-        case "y": 
-        buttonPressed("C");
-        return;
-        case "x": 
-        buttonPressed("D");
-        return;
-        case "c": 
-        buttonPressed("E");
-        return;
-        case "v": 
-        buttonPressed("F");
-        return;
-        case "b": 
-        buttonPressed("G");
-        return;
-        case "n": 
-        buttonPressed("A");
-        return;
-        case "m": 
-        buttonPressed("H");
-        return;  
-    }
+    const keyMappings = {
+        y: "C",
+        x: "D",
+        c: "E",
+        v: "F",
+        b: "G",
+        n: "A",
+        m: "H"
+      };
+      if (keyboardinput in keyMappings) {
+        buttonPressed(keyMappings[keyboardinput]);
+      }
 })
