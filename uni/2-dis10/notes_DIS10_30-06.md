@@ -1,3 +1,58 @@
+[1. Knowledge, Information and their Organization](#1)  
+[2. Information research](#2)  
+[3. Selection and evaluation of sources](#3)  
+[4. Encyclopaedias & dictionaries](#4)  
+[5. Libraries / public institutions / research organisations](#5)  
+[6. Online Hosts](#6)  
+[7. Country information / Makroökonomische Daten](#7)  
+[8. Statistical Information](#8)  
+[9. Company Information](#9)  
+[10. Financial Information](#10)  
+[11. Product Information](#11)  
+[12. Mergers & Acquisitions](#12)  
+[13. Market and Industry Information](#13)  
+[14. Press News](#14)  
+[15. People Information](#15)  
+[16. Patents & Trademarks](#16)  
+
+<a name="1"></a>
+
+# 1. Knowledge, information and their organization 
+
+![](raw/1_data-information-knowledge.JPG)
+![](raw/1_google.JPG)
+
+## Definitions 
+
+### Misinformation 
+
+- False information that is disseminated, regardless of intent to mislead
+
+### Disinformation 
+
+- Misinformation that is deliberately disseminated to miselad
+
+### Fake News 
+
+- False information, often of a sensational nature, that mimics news media content. 
+
+### Continued influence effect 
+
+- Continued reliance on inaccurate information in people's memory and reasoning after a creidble correction has been presented. 
+
+### Illusory truth effect 
+
+- Repeated information is more likely to be judged true than novel information because it has become more familiar. 
+
+<a name="2"></a>
+
+# 2. Information research
+
+<a name="3"></a>
+
+# 3. Selection and evaluation of sources
+
+# random unorganised notes 
 Scheme for source evaluation 
 
 Authority
@@ -18,6 +73,8 @@ Ein Werk wird häufig Zitat --> Güte
 ## Genios  
 
 Auftragsrecherche auch möglich  
+
+
 
 ## EchoBot  
 
