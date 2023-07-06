@@ -14,6 +14,9 @@
 [14. Press News](#14)  
 [15. People Information](#15)  
 [16. Patents & Trademarks](#16)  
+[17. Wirtschaftsinstitute](#17)  
+
+---
 
 <a name="1"></a>
 
@@ -44,13 +47,174 @@
 
 - Repeated information is more likely to be judged true than novel information because it has become more familiar. 
 
+---
+
 <a name="2"></a>
 
 # 2. Information research
 
+---
+
 <a name="3"></a>
 
 # 3. Selection and evaluation of sources
+
+---
+
+<a name="4"></a>
+
+# 4. Encyclopaedias & dictionaries
+
+---
+
+<a name="5"></a>
+
+# 5. Libraries / public institutions / research organisations
+
+---
+
+<a name="6"></a>
+
+# 6. Online Hosts
+
+---
+
+<a name="7"></a>
+
+# 7. Country information / Makroökonomische Daten
+
+Länderinformationen, Kennzahlen aus der Volkswirtschaft (BIP, Inflationsraten, Arbeitslosenquote, alles was sich auf eine Volkswirtschaft bezieht, politische Stabliltät, Bildungsstand, bla blabalblabflsabflsadfbalsf)  
+
+Für diese Information wendet man sich als erstes an die Außenhandelskammer
+In Orbis sind zwar auch Länderinformationen, aber ein Unternehmen kauft sich Orbis wenn es häufiger damit arbeitet. ANFANGEN würde man damit nicht.  
+cia world factbook ist ganz gut und kann jeder drauf zugreifen.  
+Fischer Weltalmanach  
+Auswärtiges Amt vielleicht, ist natürlich politischer und nicht für wirtschaftliches  
+spiegel.de/jahrbuch (ist auch ein bisschen international, aber es ist eher so mid)  
+Es gibt auch bisschen was von der FAZ (stichwort Investitionsführer), aber CIA ist am besten  
+
+Germany Trade & Invest, Sitz in Bonn  
+Die publizieren Import- und Exportstatistiken ohne Ende und unendlich Länderanalysen. Es ist eine öffentliche Einrichtung und somit keine kommerziellen Interesse (Außer vielleicht die wirtschaft in Deutschland zu fördern). Geil für Länderinformationen.  
+Handelsblatt Research Institut macht Auftragsforschung  
+Global competitiveness report, sehr ausführlich, einmal im Jahr aktualisiert, sehr wirtschaftsorientiert, von dem world economic forum , macht es sehr gut vergleichbar.  
+EIU (vom Economist, aber seperat), anspruchsvoll, manche EIU Datenbanken werden von der TH angeboten. Sie haben auch Volkswirtschaftliche Rohdaten zum selber analysieren. Daten sind super aktuell. auch Forecasts! auch sehr spezifisch, aber auch schnell teuer.   
+Auch (internationale) Institutionen, wie statistisches Bundesamt, World Bank, Internationaler Währungsfond, IMF [international monetary fund]  
+Für einen Trend oder Prognose braucht man Daten aus der Vergangenheit, und das mehr als ein/zwei Jahre.  
+Öffentliche Institution haben meist kein Daten für spezifische Unternehmen, sind aber sehr verlässlig.  
+Beim statistischen Bundesamt findet man häufig gute Hilfe, falls man Fragen hat.  
+Eurostat ist das statistical office der EU.  
+Daten der einzelnen Länder werden aggregiert.  
+Früher war das eine Katastrophe, weil es war nie ganz aktuell oder Länder fehlten.  
+Mittlerweile, durch Digitalisierung, ist es ok und aktuell.  
+Eropean Economic Statistics   
+man findet Links zu den statistical offices einzelner Länder.  
+Data Planet statistical datasets 
+
+---
+
+<a name="8"></a>
+
+# 8. Statistical Information
+
+---
+
+<a name="9"></a>
+
+# 9. Company Information
+
+---
+
+<a name="10"></a>
+
+# 10. Financial Information
+
+---
+
+<a name="11"></a>
+
+# 11. Product Information
+
+wer kauft Produkt/Dienstleistungen, Patentinformationen, Marktsättigung, Inhaltsstoffe, Qualität, für Konkurrenz, Wo sind Produktionsstätten, Preise, Wer produziert, Regulationen,  
+weitere possible source: 
+Minthel  
+www.wlw.de (wer liefert was?)  
+Wichtig: 
+Messen und Messenkataloge - MediKa  
+Fachzeitschriften Vergleiche 
+
+---
+
+<a name="12"></a>
+
+# 12. Mergers & Acquisitions
+
+---
+
+<a name="13"></a>
+
+# 13. Market and Industry Information
+
+---
+
+<a name="14"></a>
+
+# 14. Press News
+
+---
+
+<a name="15"></a>
+
+# 15. People Information
+
+---
+
+<a name="16"></a>
+
+# 16. Patents & Trademarks
+
+--- 
+
+<a name="17"></a>
+
+# 17. Wirtschaftsinstitute  
+
+## Institut für Weltwirtschafts [IfW] in Kiel 
+
+- guter Ruf 
+- Marktliberalismus 
+- Monetarismus
+- Fokus auf internationale Arbeitsteilung 
+  
+## Deutsches Institut für Wirtscahftsforschung [DIW] in Berlin
+
+- größtes Institut 
+- Fokus auf Ostdeutschland und Osteuropa
+- Nähe zu Gewerkschaften / Keynes --> Gegenentwurf zum IfW
+
+## Rheinisch-Westfälisches Instut für Wirtschaftsforschung [RWI] in Essen 
+
+- Fokus auf Diagnosen und Prognosen der Wirtschaft in Deutschland und anderen Industrieländern 
+- Analyse der Wirtschaft in NRW
+- Bereich Energie und Stahl 
+
+## Institut für Wirtschaftsforschung [IWH] in Halle 
+
+- Ostdeutschland 
+- Transformation der ostdeutschen Wirtschaft 
+- Fragen der Angleichung der osteuropäischen Staaten an die EU 
+- Arbeitsmarkt im Umbruch, kommunale Wirtschaft und föderativer Staat unter Anpassungsdruck 
+
+## Institut für Wirtschaftsforschung [IFO] in München 
+
+- wissenschaftlicher Vordenkern für Politik und Wirtschaft 
+- bekannt für Geschäftsklima-Index als Frühindikator für Entwicklung der Konjunktur  
+- Politikberatung
+  - Sozialpolitik
+  - Arbeitsmarkt 
+  - Strukturwandel
+  - Finanzmärkte 
+
+---
 
 # random unorganised notes 
 Scheme for source evaluation 
@@ -98,34 +262,6 @@ Zusaätzlich Leadfeeder Erkentnisse über Websiten und Besucher für Unternehmen
 DEALFRONT größerer Fokus auf Europa, auch mit dem Ziel der Kundengewinnung und wer nutzt meine Website?  
 echo Bot hat Unterprodukte Target und Connect  
 
-## Makroökonomische Daten  
-
-Länderinformationen, Kennzahlen aus der Volkswirtschaft (BIP, Inflationsraten, Arbeitslosenquote, alles was sich auf eine Volkswirtschaft bezieht, politische Stabliltät, Bildungsstand, bla blabalblabflsabflsadfbalsf)  
-
-Für diese Information wendet man sich als erstes an die Außenhandelskammer
-In Orbis sind zwar auch Länderinformationen, aber ein Unternehmen kauft sich Orbis wenn es häufiger damit arbeitet. ANFANGEN würde man damit nicht.  
-cia world factbook ist ganz gut und kann jeder drauf zugreifen.  
-Fischer Weltalmanach  
-Auswärtiges Amt vielleicht, ist natürlich politischer und nicht für wirtschaftliches  
-spiegel.de/jahrbuch (ist auch ein bisschen international, aber es ist eher so mid)  
-Es gibt auch bisschen was von der FAZ (stichwort Investitionsführer), aber CIA ist am besten  
-
-Germany Trade & Invest, Sitz in Bonn  
-Die publizieren Import- und Exportstatistiken ohne Ende und unendlich Länderanalysen. Es ist eine öffentliche Einrichtung und somit keine kommerziellen Interesse (Außer vielleicht die wirtschaft in Deutschland zu fördern). Geil für Länderinformationen.  
-Handelsblatt Research Institut macht Auftragsforschung  
-Global competitiveness report, sehr ausführlich, einmal im Jahr aktualisiert, sehr wirtschaftsorientiert, von dem world economic forum , macht es sehr gut vergleichbar.  
-EIU (vom Economist, aber seperat), anspruchsvoll, manche EIU Datenbanken werden von der TH angeboten. Sie haben auch Volkswirtschaftliche Rohdaten zum selber analysieren. Daten sind super aktuell. auch Forecasts! auch sehr spezifisch, aber auch schnell teuer.   
-Auch (internationale) Institutionen, wie statistisches Bundesamt, World Bank, Internationaler Währungsfond, IMF [international monetary fund]  
-Für einen Trend oder Prognose braucht man Daten aus der Vergangenheit, und das mehr als ein/zwei Jahre.  
-Öffentliche Institution haben meist kein Daten für spezifische Unternehmen, sind aber sehr verlässlig.  
-Beim statistischen Bundesamt findet man häufig gute Hilfe, falls man Fragen hat.  
-Eurostat ist das statistical office der EU.  
-Daten der einzelnen Länder werden aggregiert.  
-Früher war das eine Katastrophe, weil es war nie ganz aktuell oder Länder fehlten.  
-Mittlerweile, durch Digitalisierung, ist es ok und aktuell.  
-Eropean Economic Statistics   
-man findet Links zu den statistical offices einzelner Länder.  
-Data Planet statistical datasets  
 
 ## Unernehmensinformationen 
 
@@ -147,14 +283,6 @@ Die EU hat die Strafen für fehlende Daten im Handelsregister in den latzten Jah
 Allgemein ist man viel offener geworden, um nicht dem Verdacht des Versteckens Vorschub zu leisten.  
 
 ## Produktinformationen  
-
-wer kauft Produkt/Dienstleistungen, Patentinformationen, Marktsättigung, Inhaltsstoffe, Qualität, für Konkurrenz, Wo sind Produktionsstätten, Preise, Wer produziert, Regulationen,  
-weitere possible source: 
-Minthel  
-www.wlw.de (wer liefert was?)  
-Wichtig: 
-Messen und Messenkataloge - MediKa  
-Fachzeitschriften Vergleiche 
 
 ## Random Notes  
 
@@ -222,40 +350,3 @@ Patentinformationen sind wichtige Unternehmensinformation, Indikator für Innova
 alles relevant, fokus: Folien  
 
 
-## Wirtschaftsinstitute  
-
-### Institut für Weltwirtschafts [IfW] in Kiel 
-
-- guter Ruf 
-- Marktliberalismus 
-- Monetarismus
-- Fokus auf internationale Arbeitsteilung 
-  
-### Deutsches Institut für Wirtscahftsforschung [DIW] in Berlin
-
-- größtes Institut 
-- Fokus auf Ostdeutschland und Osteuropa
-- Nähe zu Gewerkschaften / Keynes --> Gegenentwurf zum IfW
-
-### Rheinisch-Westfälisches Instut für Wirtschaftsforschung [RWI] in Essen 
-
-- Fokus auf Diagnosen und Prognosen der Wirtschaft in Deutschland und anderen Industrieländern 
-- Analyse der Wirtschaft in NRW
-- Bereich Energie und Stahl 
-
-### Institut für Wirtschaftsforschung [IWH] in Halle 
-
-- Ostdeutschland 
-- Transformation der ostdeutschen Wirtschaft 
-- Fragen der Angleichung der osteuropäischen Staaten an die EU 
-- Arbeitsmarkt im Umbruch, kommunale Wirtschaft und föderativer Staat unter Anpassungsdruck 
-
-### Institut für Wirtschaftsforschung [IFO] in München 
-
-- wissenschaftlicher Vordenkern für Politik und Wirtschaft 
-- bekannt für Geschäftsklima-Index als Frühindikator für Entwicklung der Konjunktur  
-- Politikberatung
-  - Sozialpolitik
-  - Arbeitsmarkt 
-  - Strukturwandel
-  - Finanzmärkte 
