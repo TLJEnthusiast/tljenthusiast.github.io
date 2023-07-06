@@ -59,6 +59,21 @@
 
 # 3. Selection and evaluation of sources
 
+Authority
+author's reputation, background, etc...
+publisher known/respected?
+referring to other reliable sources or vice versa?
+
+Objectivity
+Gibt es ein finanzielles, unternehmerisches oder politisches Narrativ oder Kalkül?
+^ Kein Ausschlusskriterium, es sich einfach klar machen.
+
+Reliability
+are facts consistent with known facts?
+When was the information created or updated?
+
+Ein Werk wird häufig Zitat --> Güte
+
 ---
 
 <a name="4"></a>
@@ -76,6 +91,32 @@
 <a name="6"></a>
 
 # 6. Online Hosts
+
+## Genios  
+
+Auftragsrecherche auch möglich  
+
+## EchoBot  
+
+Neues, junges Unternehmen  
+
+## ProQuest
+
+Die allermeisten Inhalte sind auf Englisch --> Recherche muss auch Englisch sein. 
+
+## Echobot 
+
+Scannt irgendwie Websites?  
+Abhängig von Größe und Rechtsform muss jedes Unternehmen was publizieren, irgendwas muss beim Amtsgericht eingereicht werden.  
+Jeder kann das Handelsregister einsehen, kann aber aufwendig sein, deshalb gibt es Organe die das anzigen. Unternehmensregister.de.  
+Auch diese Handelsregister Einträge werden mitdurchsucht.
+Website wird häufig im Bereich "Market & Sales, ich suche Kunden..." genutzt.  
+Nur öffentlich zugängliche Daten! 
+Fokus auf Marketing und Vertrieb  
+Erfasst IP Addressen.  
+Zusaätzlich Leadfeeder Erkentnisse über Websiten und Besucher für Unternehmen liefer
+DEALFRONT größerer Fokus auf Europa, auch mit dem Ziel der Kundengewinnung und wer nutzt meine Website?  
+echo Bot hat Unterprodukte Target und Connect  
 
 ---
 
@@ -122,6 +163,23 @@ Data Planet statistical datasets
 
 # 9. Company Information
 
+### Warum?  
+Informationen über Unternehmen mit welchen man kooperiert,  
+Konkurrenz beobachten, 
+Informationen über Unternehmen bei welchem man Arbeiten will: Was können die mir bieten/wie international sind sie?/passt das zu mir, ist das Unternehmen zu groß für mich?  
+Für Investitionen oder Übernahmen   
+
+Unternehmensinformationsrecherche unterscheidet sich also in Intention und im Detailgrad. Manchmal braucht man nur die Anzahl der Mitarbeiter, manchmal detaillierte wirtschaftliche Kennzahlen.  
+
+Wichtige grundsätzliche Information über Unternehmen sind Rechtsform (GmbH, GBR, ...) und Größe des Unternehmens.  
+
+Diese beiden Informationen entscheiden natürlich auch, wie viele und was für Informationen sich über ein Unternehmen recherchierbar sind. AGs sind häufig sehr schnell mit der Veröffentlichung der Zahlen, um die Aktionäre zu informieren. Kommandit Gesellschaft sind häufig schleierhaft mit Gewinn (ALDI), weil die mit dem Privatvermögen halften oder sowas.  
+
+
+
+Die EU hat die Strafen für fehlende Daten im Handelsregister in den latzten Jahren deutlich erhöht. Aus diesem Grund sind die Handlesregister heutzutage sehr vollständig.  
+Allgemein ist man viel offener geworden, um nicht dem Verdacht des Versteckens Vorschub zu leisten. 
+
 ---
 
 <a name="10"></a>
@@ -148,6 +206,23 @@ Fachzeitschriften Vergleiche
 
 # 12. Mergers & Acquisitions
 
+Immer wichtiger wegen Internationalisierung  
+Marktanteil in der Branche vergrößern.  
+Strategie ändern aufgrund von Acquisitions, Siemens macht 1847 nicht das was es heute macht.  
+eventuell mehrere Märkte abdecken.  
+Marktfragmentierung  
+"feindliche Übernahmen"  
+Seite des Bundeskartelamtes (chronologische Reihenfolge, nicht schön, einfach, ohne money)
+M&A journals, Zeitschrift, vielleicht mittlerweile online? bei den Datenbanken  
+wenn aktuell (Gerüchte): News/Press databases  
+markus von BvD  
+SDC ist toll (details?, kostspielig!), sdc ist von USA nach Europa
+mergermarket hat Schwerpunkt Europa. (Internationalisierung fehlt!)
+Zehpyr ist global, angefangen mit Fokus Europa, täglich aktualisiert, english, teuer (aber geht eventuell), günstiger als SDC, Presseinfos dabei.  
+Orbis ist auch bei M&A irgendwie dabei.     
+ownership structures ist wichtig: 
+-lexis nexis corporate affiliations  
+
 ---
 
 <a name="13"></a>
@@ -166,11 +241,37 @@ Fachzeitschriften Vergleiche
 
 # 15. People Information
 
+People information  
+Personalsuche  
+managerdossiers ( genius )  
+Orbis: Wer sitzt im Management  
+soziale Medien (linkedin / Xing)  
+news out of the press [Forbes, Manager Magazin]
+
+## EEN 
+
+external expert network  
+Expertenvermittlung  
+Bedarf nimmt zu  
+in der Regel anonym an EENs wenden  
+EEN regeln rechtlichen Rahmen, Qualifikation, etc..   
+Viele Firmen die das machen.  (auch schlechte, oder Spezialisierung auf Brance)  
+
 ---
 
 <a name="16"></a>
 
 # 16. Patents & Trademarks
+
+patent - 20 Jahre und Gebühren  
+Patentrecherche, um nicht an etwas zu forschen, voran es schon ein Patent ist  
+war kompliziert af  
+mittlerweile kostenfreie Patentrecherche wichtig. dpma, europäisches Partentamt, PAZdpa(?) 
+trademark = Firmen, Marken etc unterscheidbar machen.  
+Schutzdauer einer Marke ist grundsätzlich unendlich solange Gebühren bezahlt werden.  
+auch Sachen wie Flaschenform.  
+Patentinformationen sind wichtige Unternehmensinformation, Indikator für Innovation eines Unternehmens oder Land.  
+"Wo könnte man kostenfreie Patentinformationen recherchieren und warum ist das wichtig?"  
 
 --- 
 
@@ -219,96 +320,17 @@ Fachzeitschriften Vergleiche
 # random unorganised notes 
 Scheme for source evaluation 
 
-Authority
-author's reputation, background, etc...
-publisher known/respected?
-referring to other reliable sources or vice versa?
-
-Objectivity
-Gibt es ein finanzielles, unternehmerisches oder politisches Narrativ oder Kalkül?
-^ Kein Ausschlusskriterium, es sich einfach klar machen.
-
-Reliability
-are facts consistent with known facts?
-When was the information created or updated?
-
-Ein Werk wird häufig Zitat --> Güte
-
-## Genios  
-
-Auftragsrecherche auch möglich  
 
 
 
-## EchoBot  
-
-Neues, junges Unternehmen  
-
-## ProQuest
-
-Die allermeisten Inhalte sind auf Englisch --> Recherche muss auch Englisch sein. 
-
-## Echobot 
-
-Scannt irgendwie Websites?  
-Abhängig von Größe und Rechtsform muss jedes Unternehmen was publizieren, irgendwas muss beim Amtsgericht eingereicht werden.  
-Jeder kann das Handelsregister einsehen, kann aber aufwendig sein, deshalb gibt es Organe die das anzigen. Unternehmensregister.de.  
-Auch diese Handelsregister Einträge werden mitdurchsucht.
-Website wird häufig im Bereich "Market & Sales, ich suche Kunden..." genutzt.  
-Nur öffentlich zugängliche Daten! 
-Fokus auf Marketing und Vertrieb  
-Erfasst IP Addressen.  
-Zusaätzlich Leadfeeder Erkentnisse über Websiten und Besucher für Unternehmen liefer
-DEALFRONT größerer Fokus auf Europa, auch mit dem Ziel der Kundengewinnung und wer nutzt meine Website?  
-echo Bot hat Unterprodukte Target und Connect  
-
-
-## Unernehmensinformationen 
-
-### Warum?  
-Informationen über Unternehmen mit welchen man kooperiert,  
-Konkurrenz beobachten, 
-Informationen über Unternehmen bei welchem man Arbeiten will: Was können die mir bieten/wie international sind sie?/passt das zu mir, ist das Unternehmen zu groß für mich?  
-Für Investitionen oder Übernahmen   
-
-Unternehmensinformationsrecherche unterscheidet sich also in Intention und im Detailgrad. Manchmal braucht man nur die Anzahl der Mitarbeiter, manchmal detaillierte wirtschaftliche Kennzahlen.  
-
-Wichtige grundsätzliche Information über Unternehmen sind Rechtsform (GmbH, GBR, ...) und Größe des Unternehmens.  
-
-Diese beiden Informationen entscheiden natürlich auch, wie viele und was für Informationen sich über ein Unternehmen recherchierbar sind. AGs sind häufig sehr schnell mit der Veröffentlichung der Zahlen, um die Aktionäre zu informieren. Kommandit Gesellschaft sind häufig schleierhaft mit Gewinn (ALDI), weil die mit dem Privatvermögen halften oder sowas.  
 
 
 
-Die EU hat die Strafen für fehlende Daten im Handelsregister in den latzten Jahren deutlich erhöht. Aus diesem Grund sind die Handlesregister heutzutage sehr vollständig.  
-Allgemein ist man viel offener geworden, um nicht dem Verdacht des Versteckens Vorschub zu leisten.  
-
-## Produktinformationen  
-
-## Random Notes  
-
-Minimum 10 Minuten, aber auch nicht mehr.  
 Statista ist kommerziell! Muss man wissen, eventuell manchmal von eigenen Interessen gefärbt.  
 
-Bvd/Moody's (und irgendwie Orbis I guess???)
 
-## Acquisitions and Merges 
 
-Immer wichtiger wegen Internationalisierung  
-Marktanteil in der Branche vergrößern.  
-Strategie ändern aufgrund von Acquisitions, Siemens macht 1847 nicht das was es heute macht.  
-eventuell mehrere Märkte abdecken.  
-Marktfragmentierung  
-"feindliche Übernahmen"  
-Seite des Bundeskartelamtes (chronologische Reihenfolge, nicht schön, einfach, ohne money)
-M&A journals, Zeitschrift, vielleicht mittlerweile online? bei den Datenbanken  
-wenn aktuell (Gerüchte): News/Press databases  
-markus von BvD  
-SDC ist toll (details?, kostspielig!), sdc ist von USA nach Europa
-mergermarket hat Schwerpunkt Europa. (Internationalisierung fehlt!)
-Zehpyr ist global, angefangen mit Fokus Europa, täglich aktualisiert, english, teuer (aber geht eventuell), günstiger als SDC, Presseinfos dabei.  
-Orbis ist auch bei M&A irgendwie dabei.     
-ownership structures ist wichtig: 
--lexis nexis corporate affiliations  
+
 ALDI KG verschachtelt sich so, dass man den Umsatz nicht herausfinden kann.  
 Market and indsutry information  
 Distributionskanäle  
@@ -323,30 +345,10 @@ Verbände geben wenig Unternehmensinformation ihrer Mitglieder frei.
 verbaende.de  
 eigene Verbändennamen kennen!  
 Blendle APP Tageszeitschriften und Zeitungen  
-People information  
-Personalsuche  
-managerdossiers ( genius )  
-Orbis: Wer sitzt im Management  
-soziale Medien (linkedin / Xing)  
-news out of the press [Forbes, Manager Magazin]   
 
-## EEN 
 
-external expert network  
-Expertenvermittlung  
-Bedarf nimmt zu  
-in der Regel anonym an EENs wenden  
-EEN regeln rechtlichen Rahmen, Qualifikation, etc..   
-Viele Firmen die das machen.  (auch schlechte, oder Spezialisierung auf Brance)  
-patent - 20 Jahre und Gebühren  
-Patentrecherche, um nicht an etwas zu forschen, voran es schon ein Patent ist  
-war kompliziert af  
-mittlerweile kostenfreie Patentrecherche wichtig. dpma, europäisches Partentamt, PAZdpa(?) 
-trademark = Firmen, Marken etc unterscheidbar machen.  
-Schutzdauer einer Marke ist grundsätzlich unendlich solange Gebühren bezahlt werden.  
-auch Sachen wie Flaschenform.  
-Patentinformationen sind wichtige Unternehmensinformation, Indikator für Innovation eines Unternehmens oder Land.  
-"Wo könnte man kostenfreie Patentinformationen recherchieren und warum ist das wichtig?"  
+
+
 alles relevant, fokus: Folien  
 
 

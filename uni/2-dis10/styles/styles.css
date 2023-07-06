@@ -5,8 +5,9 @@ body {
     background-color: rgb(19, 19, 19);
     color: white;
 }
-
-/* p, h1, h2, h3, h4, h5, h6, ol, ul {
-    color: white;
-} */
+a, a:visited {
+    text-decoration: none;
+    color: orange;
+    line-height: 2;
+}
 
