@@ -124,21 +124,42 @@ echo Bot hat Unterprodukte Target und Connect
 
 # 7. Country information / Makroökonomische Daten
 
-Länderinformationen, Kennzahlen aus der Volkswirtschaft (BIP, Inflationsraten, Arbeitslosenquote, alles was sich auf eine Volkswirtschaft bezieht, politische Stabliltät, Bildungsstand, bla blabalblabflsabflsadfbalsf)  
+Kennzahlen aus der Volkswirtschaft (BIP, Inflationsraten, Arbeitslosenquote, alles was sich auf eine Volkswirtschaft bezieht, politische Stabliltät, Bildungsstand, Mindestlohn, IT-Infrastruktur, (Umwelt-) Regulierungen, ...)  
+
+## Überblick
+
+- **CIA World Factbook!!**
+  - kostenlos
+  - sehr gut
+- Auswärtiges Amt 
+  - für politische Anliegen 
+- Fischer Weltalmanach  
+- spiegel.de/jahrbuch
+  - (ist auch ein bisschen international, aber es ist eher so mid) 
+- FAZ Investitionsführer
+
+## Spezifischer
+
+- Germany Trade & Invest, Sitz in Bonn  
+Die publizieren Import- und Exportstatistiken ohne Ende und unendlich Länderanalysen. Es ist eine öffentliche Einrichtung und somit keine kommerziellen Interesse (Außer vielleicht die wirtschaft in Deutschland zu fördern). Geil für Länderinformationen.  
+- Global competitiveness report, sehr ausführlich, einmal im Jahr aktualisiert, sehr wirtschaftsorientiert, von dem world economic forum , macht es sehr gut vergleichbar.  
+- Handelsblatt Research Institut macht Auftragsforschung  
+
+## Detailliert
+
+- EIU (vom Economist, aber seperat), 
+  - anspruchsvoll, manche EIU Datenbanken werden von der TH angeboten. Sie haben auch Volkswirtschaftliche Rohdaten zum selber analysieren. Daten sind super aktuell. auch Forecasts! auch sehr spezifisch, aber auch schnell teuer.   
+
+## Notes / Weiteres 
 
 Für diese Information wendet man sich als erstes an die Außenhandelskammer
 In Orbis sind zwar auch Länderinformationen, aber ein Unternehmen kauft sich Orbis wenn es häufiger damit arbeitet. ANFANGEN würde man damit nicht.  
-cia world factbook ist ganz gut und kann jeder drauf zugreifen.  
-Fischer Weltalmanach  
-Auswärtiges Amt vielleicht, ist natürlich politischer und nicht für wirtschaftliches  
-spiegel.de/jahrbuch (ist auch ein bisschen international, aber es ist eher so mid)  
-Es gibt auch bisschen was von der FAZ (stichwort Investitionsführer), aber CIA ist am besten  
 
-Germany Trade & Invest, Sitz in Bonn  
-Die publizieren Import- und Exportstatistiken ohne Ende und unendlich Länderanalysen. Es ist eine öffentliche Einrichtung und somit keine kommerziellen Interesse (Außer vielleicht die wirtschaft in Deutschland zu fördern). Geil für Länderinformationen.  
-Handelsblatt Research Institut macht Auftragsforschung  
-Global competitiveness report, sehr ausführlich, einmal im Jahr aktualisiert, sehr wirtschaftsorientiert, von dem world economic forum , macht es sehr gut vergleichbar.  
-EIU (vom Economist, aber seperat), anspruchsvoll, manche EIU Datenbanken werden von der TH angeboten. Sie haben auch Volkswirtschaftliche Rohdaten zum selber analysieren. Daten sind super aktuell. auch Forecasts! auch sehr spezifisch, aber auch schnell teuer.   
+
+
+
+
+
 Auch (internationale) Institutionen, wie statistisches Bundesamt, World Bank, Internationaler Währungsfond, IMF [international monetary fund]  
 Für einen Trend oder Prognose braucht man Daten aus der Vergangenheit, und das mehr als ein/zwei Jahre.  
 Öffentliche Institution haben meist kein Daten für spezifische Unternehmen, sind aber sehr verlässlig.  
