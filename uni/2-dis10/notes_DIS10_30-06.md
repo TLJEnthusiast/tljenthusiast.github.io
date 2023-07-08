@@ -92,20 +92,57 @@ Ein Werk wird häufig Zitat --> Güte
 
 # 6. Online Hosts
 
+|Content|Genios|LexisNexis|ProQuest|ProQuest|Moody's BvD|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|Region|D, A, CH| USA, Internat.|USA, Internat.|EUrope, Internat.|Internat.|
+|Business Press|X|X|***X***|X||
+|Journals|X|X|***X***|X||
+|Company Db|X|X|X|X|***X***|
+|Market Studies|X|X|(X)|(X)||
+
+## LexisNexis 
+
+- **Lexis**  
+Internationale Rechts- und Patentinformationen 25%  
+federal law and EU law and regulations for EU countires and Kanada, Australia, US, China, Russia etc...  
+*LexisNexis TotalPatent*
+  
+- Nexis: Wirtschaftsinformationen (75%)
+
+- In Deutschland nur noch Wirtschaftsinformationen 
+
+- aktuelle Politik- und Wirtschaftsanalysen sowie Länderprofile und globale Marktprognosen 
+
+- Lots of company information and people information 
+
+- pricy 
+
 ## Genios  
 
 Auftragsrecherche auch möglich  
 
-## EchoBot  
-
-Neues, junges Unternehmen  
-
 ## ProQuest
 
-Die allermeisten Inhalte sind auf Englisch --> Recherche muss auch Englisch sein. 
+- Die allermeisten Inhalte sind auf Englisch --> Recherche muss auch Englisch sein.  
 
-## Echobot 
+**ABI/Inform**  
+- Wirtschaftswissenschaftliche Inhalte  
+(BWL, VWL, Strateg. Management Literatur, Fallstudien, interant. Wirtschaftsnachrichten, Branchenberichte)
+- Business Information  
+- EIU Newswires (Länderinformationen)
 
+**Content**
+- journals
+- magazines
+- trade journals working papers
+- country + industry focused reports
+- conference proceedings
+- dissertationen  
+- 1 Mio. E-Books
+
+## Echobot / Dealfront 
+
+Neues, junges Unternehmen  
 Scannt irgendwie Websites?  
 Abhängig von Größe und Rechtsform muss jedes Unternehmen was publizieren, irgendwas muss beim Amtsgericht eingereicht werden.  
 Jeder kann das Handelsregister einsehen, kann aber aufwendig sein, deshalb gibt es Organe die das anzigen. Unternehmensregister.de.  
@@ -128,21 +165,28 @@ Kennzahlen aus der Volkswirtschaft (BIP, Inflationsraten, Arbeitslosenquote, all
 
 ## Überblick
 
-- **CIA World Factbook!!**
-  - kostenlos
-  - sehr gut
-- Auswärtiges Amt 
-  - für politische Anliegen 
+- **CIA World Factbook!!**  
+kostenlos  
+sehr gut  
+
+- Auswärtiges Amt  
+für politische Anliegen  
+
 - Fischer Weltalmanach  
-- spiegel.de/jahrbuch
-  - (ist auch ein bisschen international, aber es ist eher so mid) 
-- FAZ Investitionsführer
+
+- spiegel.de/jahrbuch  
+(ist auch ein bisschen international, aber es ist eher so mid)  
+
+- FAZ Investitionsführer  
 
 ## Spezifischer
 
-- Germany Trade & Invest, Sitz in Bonn  
+- **Germany Trade & Invest, Sitz in Bonn**  
 Die publizieren Import- und Exportstatistiken ohne Ende und unendlich Länderanalysen. Es ist eine öffentliche Einrichtung und somit keine kommerziellen Interesse (Außer vielleicht die wirtschaft in Deutschland zu fördern). Geil für Länderinformationen.  
-- Global competitiveness report, sehr ausführlich, einmal im Jahr aktualisiert, sehr wirtschaftsorientiert, von dem world economic forum , macht es sehr gut vergleichbar.  
+
+- Global competitiveness report [World Economic Forum]  
+sehr ausführlich, einmal im Jahr aktualisiert, sehr wirtschaftsorientiert, macht es sehr gut vergleichbar.  
+
 - Handelsblatt Research Institut macht Auftragsforschung  
 
 ## Detailliert
@@ -152,12 +196,8 @@ Die publizieren Import- und Exportstatistiken ohne Ende und unendlich Länderana
 
 ## Notes / Weiteres 
 
-Für diese Information wendet man sich als erstes an die Außenhandelskammer
+Für diese Information wendet man sich als erstes an die Außenhandelskammer  
 In Orbis sind zwar auch Länderinformationen, aber ein Unternehmen kauft sich Orbis wenn es häufiger damit arbeitet. ANFANGEN würde man damit nicht.  
-
-
-
-
 
 
 Auch (internationale) Institutionen, wie statistisches Bundesamt, World Bank, Internationaler Währungsfond, IMF [international monetary fund]  
@@ -262,27 +302,49 @@ ownership structures ist wichtig:
 
 # 15. People Information
 
-People information  
-Personalsuche  
-managerdossiers ( genius )  
-Orbis: Wer sitzt im Management  
-soziale Medien (linkedin / Xing)  
-news out of the press [Forbes, Manager Magazin]
+## Why? 
 
-## EEN 
+- Personalsuche
+- Einschätzen von Business Partnern, Kunden, Auftraggeber oder Angestellten
 
-external expert network  
-Expertenvermittlung  
+|Bisnode|GENIOS|kuerschner.info|NewsBites|WHO'S WHO|
+|:---:|:---:|:---:|:---:|:---:|
+Managerprofile|GENIOS Manager Dossiers|Politikerbiogrpahen|People in Business|European Business Manager|
+|Daten zu Personen im Management|Bündelungen aus verschiedenen Datenbanken|Kurzbiographien zu aktuellen Mitgliedern des Bundestages|Kurzbiographien zu Topmanagerbörsennotierte internationalen Unternehmen + EInfluss auf finanzielle Performance|Kurzviten einigen Managern der Top Unternehmen europäischer Länder|
+|Deutschland|Deutschland|Deutschland|Weltweit|Europa
+|Deutsch|Deutsch|Deutsch|Englisch|Englisch
+
+  
+## Managerdossiers ( genius )  
+
+## Orbis: Wer sitzt im Management  
+
+## Soziale Medien (linkedin / Xing)  
+
+## News out of the press [Forbes, Manager Magazin]
+
+## EEN / External Expert Network 
+
+**Expertenvermittlung**  
 Bedarf nimmt zu  
 in der Regel anonym an EENs wenden  
+Meist für sehr spezifische Fragen  
 EEN regeln rechtlichen Rahmen, Qualifikation, etc..   
-Viele Firmen die das machen.  (auch schlechte, oder Spezialisierung auf Brance)  
+Viele Firmen die das machen.  (auch schlechte, oder Spezialisierung auf Branche)  
+Einige Firmen:  
+*CAPVISION, ALphaSights, Third Bridge, DIALECTICA, GLG*
 
 ---
 
 <a name="16"></a>
 
 # 16. Patents & Trademarks
+
+## Kostenfreie Datenbanken
+
+- Deutsches Patentamt
+
+## Kostenpflichtige Datenbanken
 
 patent - 20 Jahre und Gebühren  
 Patentrecherche, um nicht an etwas zu forschen, voran es schon ein Patent ist  
@@ -292,7 +354,7 @@ trademark = Firmen, Marken etc unterscheidbar machen.
 Schutzdauer einer Marke ist grundsätzlich unendlich solange Gebühren bezahlt werden.  
 auch Sachen wie Flaschenform.  
 Patentinformationen sind wichtige Unternehmensinformation, Indikator für Innovation eines Unternehmens oder Land.  
-"Wo könnte man kostenfreie Patentinformationen recherchieren und warum ist das wichtig?"  
+
 
 --- 
 
@@ -339,8 +401,11 @@ Patentinformationen sind wichtige Unternehmensinformation, Indikator für Innova
 ---
 
 # random unorganised notes 
-Scheme for source evaluation 
 
+Mögliche Prüfungsfrage:  
+*"Wo könnte man kostenfreie Patentinformationen recherchieren und warum ist das wichtig?"*  
+
+Scheme for source evaluation 
 
 
 
