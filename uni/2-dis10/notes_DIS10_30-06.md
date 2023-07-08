@@ -267,12 +267,16 @@ Fachzeitschriften Vergleiche
 
 # 12. Mergers & Acquisitions
 
-Immer wichtiger wegen Internationalisierung  
-Marktanteil in der Branche vergrößern.  
-Strategie ändern aufgrund von Acquisitions, Siemens macht 1847 nicht das was es heute macht.  
-eventuell mehrere Märkte abdecken.  
-Marktfragmentierung  
-"feindliche Übernahmen"  
+- Immer wichtiger wegen Internationalisierung  
+
+- Marktanteil in der Branche vergrößern.  
+
+- Strategie ändern aufgrund von Acquisitions, Siemens macht 1847 nicht das was es heute macht.  
+- eventuell mehrere Märkte abdecken.  
+- Marktfragmentierung  
+
+Normalerweise werden Fusionen und Übernahmen in gegenseitigem Einvernehmen durchgeführt, indem die beiden beteiligten Unternehmen eine Vereinbarung treffen und die Aktionäre des Zielunternehmens zustimmen. Bei einer ***feindlichen Übernahme*** besteht jedoch keine Vereinbarung oder Zustimmung seitens des Zielunternehmens.
+
 Seite des Bundeskartelamtes (chronologische Reihenfolge, nicht schön, einfach, ohne money)
 M&A journals, Zeitschrift, vielleicht mittlerweile online? bei den Datenbanken  
 wenn aktuell (Gerüchte): News/Press databases  
@@ -342,18 +346,46 @@ Einige Firmen:
 
 ## Kostenfreie Datenbanken
 
-- Deutsches Patentamt
+### Deutsches Patentamt / DEPATISnet.dpma.de
+
+### Europäisches Partentamt
+
+### Internationale Patentmeldung 
+
+### FreePatentOnline (USA, Europa, Japan), Google Patents, Wiki Patents
 
 ## Kostenpflichtige Datenbanken
 
-patent - 20 Jahre und Gebühren  
-Patentrecherche, um nicht an etwas zu forschen, voran es schon ein Patent ist  
-war kompliziert af  
-mittlerweile kostenfreie Patentrecherche wichtig. dpma, europäisches Partentamt, PAZdpa(?) 
-trademark = Firmen, Marken etc unterscheidbar machen.  
-Schutzdauer einer Marke ist grundsätzlich unendlich solange Gebühren bezahlt werden.  
-auch Sachen wie Flaschenform.  
-Patentinformationen sind wichtige Unternehmensinformation, Indikator für Innovation eines Unternehmens oder Land.  
+### Deutsches Patent- und Markenamt (PATDPA)
+
+### International Patent DOcumentation Center (INPADOCDB)
+
+### CapIus (Patentbehörde, asiatische Patente)
+
+## Notes / Weiteres 
+
+- Patente gelten für 20 Jahre +Gebühren 
+
+- Patentinformationen sind wichtige Unternehmensinformation und Indikator für Innovation eines Unternehmens oder Land.  
+USA Nr. 1 und gute Kooperationen zwischen Universitäten und Unternehmen  
+Deutschland Nr. 1 im Maschinenbau und vorne bei Impfstoff Patenten  
+EU vorne im Bereich Windkraft und Functional Food  
+
+- Patentrecherche wichtig, da man nicht an etwas forschen will, was schon patentiert ist.  
+Bei Bayer gibt es ganze Abteilungen, welche sich nur mit Patentrecherche beschäftigen 
+
+- mittlerweile kostenfreie Patentrecherche wichtig. dpma, europäisches Partentamt, PAZdpa(?) 
+
+## Trademarks 
+
+- Grundsätzliches Ziel von Trademark:  
+Firmen und Marken unterscheidbar machen.  
+
+- Schutzdauer einer Marke ist grundsätzlich unendlich solange Gebühren bezahlt werden. 
+
+- Trademark auch für abstraktere Sachen wie beispielsweise Flaschenform (Coca Cola)  
+
+ 
 
 
 --- 
