@@ -106,6 +106,37 @@ When was the information created or updated?
 
 # 5. Libraries / public institutions / research organisations
 
+## EconBiz.de
+
+- Fachzeitschriften, Working Paper & Konferenzen
+
+- BWL und VWL
+
+- öffentlich finanziert
+
+- sehr präzeise und spezifische Suchen möglich - *besonders geeignet für wissenschaftliche Arbeit*
+
+## Wiso-Net 
+
+- kommerzielles Produkt von GENIOS - Ähnlichkeit zu Genios
+
+- 5 Bereiche:  
+*Wirtschaftswissenschaften, Sozialwissenschaften, Psychologie, Technik und Recht*
+
+- Fachzeitschriften, Tages- und Wochenpresse, Firmeninformationen, Personeninformationen, Marktdaten, E-Books
+
+- Erängzungsmodul **WISO NET Presse**  
+aktuelle + historische Presse 
+
+## Business Source Premier (EBSCO)
+
+- industry most used and incredibly well known
+
+- Für Unternehmen
+
+- hauptsächlich journals 
+Hälfte peer-reviewed
+
 ---
 
 <a name="6"></a>
@@ -252,6 +283,11 @@ Data Planet statistical datasets
 
 - Kommerzielles Interesse!!
 - verschiedene Quellen
+
+## TILASTO 
+
+- Kommerzielles Produkt von GENIOS
+- Weniger Quellen als Statista, aber zuverlässiger, da ausschließlich seriöse Quellen (z.Bsp.) UN, WHO, ...
 
 ---
 
