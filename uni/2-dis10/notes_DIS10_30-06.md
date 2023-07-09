@@ -53,32 +53,52 @@
 
 # 2. Information research
 
+## Pull- und Push Ansatz:
+
+> Beim **Pull-Ansatz** muss der Informationssuchnde seinen Informationsbedarf erkennen und daraufhin selber suchen. Es können sensible oder exklusive Informationen sein. 
+
+> Der **Push-Ansatz** eignet sich besonders für die Verteilung zielgruppenspezifischer Informationen. Push-Technologien erlauben, dass der Anwender passive Information als z.B. E-Mail erhält, statt aktiv danach zu suchen. 
+
 ---
 
 <a name="3"></a>
 
 # 3. Selection and evaluation of sources
 
-Authority
+## Authority 
+
 author's reputation, background, etc...
-publisher known/respected?
+publisher known/respected?  
 referring to other reliable sources or vice versa?
 
-Objectivity
-Gibt es ein finanzielles, unternehmerisches oder politisches Narrativ oder Kalkül?
-^ Kein Ausschlusskriterium, es sich einfach klar machen.
+## Objectivity 
 
-Reliability
+Gibt es ein finanzielles, unternehmerisches oder politisches Narrativ oder Kalkül?  
+^ Kein Ausschlusskriterium, es sich einfach klar machen.  
+is the language neutral or more emotional?  
+WARUM wird diese Information veröffentlicht?  
+
+## Reliability 
+
+Was sind die Quellen?
 are facts consistent with known facts?
 When was the information created or updated?
-
-Ein Werk wird häufig Zitat --> Güte
 
 ---
 
 <a name="4"></a>
 
 # 4. Encyclopaedias & dictionaries
+
+## Online Encyclopaedia Wikipedia 
+
+## Encylopaedia Britannica (britannica.com)
+
+## Gabler Wirtschaftslexikon 
+
+## Wirtschaftslexikon vom Handelsblatt 
+
+## Gale Directory u.v.a
 
 ---
 
@@ -217,6 +237,21 @@ Data Planet statistical datasets
 <a name="8"></a>
 
 # 8. Statistical Information
+
+## Statistisches Bundesamt / destatis
+
+- Kooperation mit statistischen Landesämtern 
+
+## Eurostat
+
+- Europäisches Statistikamt
+- flagship publication: European Economic Statistics
+- Vergleich zwischen Mitgliedstaaten
+
+## Statista
+
+- Kommerzielles Interesse!!
+- verschiedene Quellen
 
 ---
 
@@ -394,14 +429,15 @@ Firmen und Marken unterscheidbar machen.
 
 # 17. Wirtschaftsinstitute  
 
-## Institut für Weltwirtschafts [IfW] in Kiel 
+## Institut für Weltwirtschaft [IfW] in Kiel 
 
 - guter Ruf 
+- Interationale Wirtschaft
 - Marktliberalismus 
 - Monetarismus
-- Fokus auf internationale Arbeitsteilung 
+- Fokus auf internationale Arbeitsteilung (Adam Smith)
   
-## Deutsches Institut für Wirtscahftsforschung [DIW] in Berlin
+## Deutsches Institut für Wirtschaftsforschung [DIW] in Berlin
 
 - größtes Institut 
 - Fokus auf Ostdeutschland und Osteuropa
@@ -422,13 +458,11 @@ Firmen und Marken unterscheidbar machen.
 
 ## Institut für Wirtschaftsforschung [IFO] in München 
 
-- wissenschaftlicher Vordenkern für Politik und Wirtschaft 
+- Konjunkturfoschung
 - bekannt für Geschäftsklima-Index als Frühindikator für Entwicklung der Konjunktur  
-- Politikberatung
-  - Sozialpolitik
-  - Arbeitsmarkt 
-  - Strukturwandel
-  - Finanzmärkte 
+- Politikberatung / Verbindung in die Politik 
+- *Unternehmensdaten, Arbeitsmarkt, Bildungspolitik, Energiepolitik und Steuerpolitik*
+
 
 ---
 
