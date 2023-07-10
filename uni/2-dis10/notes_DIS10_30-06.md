@@ -318,19 +318,52 @@ Allgemein ist man viel offener geworden, um nicht dem Verdacht des Versteckens V
 
 # 10. Financial Information
 
+## What kind of financial data?
+
+- Balance sheet / (Jahres-)Bilanz
+- Gewinn- und Verlustrechnungen 
+- Kreditwürdigkeit / Bonität
+- allerlei Aktieninformationen
+- Return on Investment (ROI), cash flow, profitability...
+
+## Wo?
+
+- Handelsregister / Northdata.de / Echobot
+- Jahresabschluss
+
+- Creditreform Firmenwissen für Kurzprofil und Überblick über Finanzen und Bonität
+
+- BVD
+
+- Bloomberg, Reuters
+
+## Aktien information 
+
+- Finanzportale
+- BLOOMBERG, Reuters
+- Presse Informationen (Börsenzeitung)
+
 ---
 
 <a name="11"></a>
 
 # 11. Product Information
 
-wer kauft Produkt/Dienstleistungen, Patentinformationen, Marktsättigung, Inhaltsstoffe, Qualität, für Konkurrenz, Wo sind Produktionsstätten, Preise, Wer produziert, Regulationen,  
+Warum?
+wer kauft Produkt/Dienstleistungen, Patentinformationen, Marktsättigung, Inhaltsstoffe, Qualität, für Konkurrenz, Wo sind Produktionsstätten, Preise, Wer produziert, Regulationen,   ..
+
+## Sources 
+
+- Produktkatalog
+- Website / Social Media postings
+- storecheck 
+- Messen und Messkataloge (bspw. MediCa für Medizintechnik)
+- price lists
+- Zeitschriften 
 weitere possible source: 
-Minthel  
-www.wlw.de (wer liefert was?)  
-Wichtig: 
-Messen und Messenkataloge - MediKa  
-Fachzeitschriften Vergleiche 
+Mintel (Global New Products Database, Detaillierte Daten zu neuen Produkten)
+www.wlw.de (wer liefert was?)  (DACH)
+
 
 ---
 
@@ -364,6 +397,20 @@ ownership structures ist wichtig:
 <a name="13"></a>
 
 # 13. Market and Industry Information
+
+## Primärmarktstudien / Primärmarktfoschung
+
+
+
+Verbände, Kongresse und Konferenzen sind irgendwie wichtig. (Kongressschriften zum Teil bei ProQuest)  
+Clarinate == ProQuest now  
+GFK, Gesellschaft für Konsumforschung ==> Primärmarktstudien / Primärmarktforschungen    
+Sekundärmarktsudien sind nicht so teuer, aus unterschieldichen Quellen und packt die zusammen in einen Bericht.  
+analyst report von Investmentbanken, sehr speziell und stark finanzlastig.  
+wenn man keine Ahnung hat: Marketresearch.com  
+Verbände geben wenig Unternehmensinformation ihrer Mitglieder frei.  
+verbaende.de  
+eigene Verbändennamen kennen!  
 
 ---
 
@@ -523,15 +570,7 @@ ALDI KG verschachtelt sich so, dass man den Umsatz nicht herausfinden kann.
 Market and indsutry information  
 Distributionskanäle  
 fachzeitschriften --> Genios (LexisNexis auch)  
-Verbände, Kongresse und Konferenzen sind irgendwie wichtig. (Kongressschriften zum Teil bei ProQuest)  
-Clarinate == ProQuest now  
-GFK, Gesellschaft für Konsumforschung ==> Primärmarktstudien / Primärmarktforschungen    
-Sekundärmarktsudien sind nicht so teuer, aus unterschieldichen Quellen und packt die zusammen in einen Bericht.  
-analyst report von Investmentbanken, sehr speziell und stark finanzlastig.  
-wenn man keine Ahnung hat: Marketresearch.com  
-Verbände geben wenig Unternehmensinformation ihrer Mitglieder frei.  
-verbaende.de  
-eigene Verbändennamen kennen!  
+
 Blendle APP Tageszeitschriften und Zeitungen  
 
 
