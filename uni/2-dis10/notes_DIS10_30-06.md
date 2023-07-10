@@ -427,17 +427,30 @@ ownership structures ist wichtig:
 
 ## Primärmarktstudien / Primärmarktfoschung
 
+- GfK, Gesellschaft für Konsumforschung
 
+## Sekundärmarktstudien 
 
-Verbände, Kongresse und Konferenzen sind irgendwie wichtig. (Kongressschriften zum Teil bei ProQuest)  
-Clarinate == ProQuest now  
-GFK, Gesellschaft für Konsumforschung ==> Primärmarktstudien / Primärmarktforschungen    
-Sekundärmarktsudien sind nicht so teuer, aus unterschieldichen Quellen und packt die zusammen in einen Bericht.  
-analyst report von Investmentbanken, sehr speziell und stark finanzlastig.  
-wenn man keine Ahnung hat: Marketresearch.com  
+Sekundärmarktsudien sind nicht so teuer, aus unterschieldichen Quellen und packt die zusammen in einen Bericht. 
+
+- euromonitor
+- EMIS 
+- Mintel Reports
+- Handelsblatt Research institut
+
+---
+
+- Verbände, verbaende.com  
+Deutsche Bauindustrie, Verband der Automobilindustrie  
 Verbände geben wenig Unternehmensinformation ihrer Mitglieder frei.  
-verbaende.de  
-eigene Verbändennamen kennen!  
+In Deutschland gibt es eine besonders große Struktur an spezifischen Verbänden  
+- Kongresse und Konferenzen(Kongressschriften bei ProQuest)  
+  
+- analyst report von Investmentbanken  
+sehr speziell und stark finanzlastig.  
+Beispiel: JPMorgan Chase, Goldman Sachs, Wells Fargo
+
+- wenn man keine Ahnung hat: Marketresearch.com  
 
 ---
 
