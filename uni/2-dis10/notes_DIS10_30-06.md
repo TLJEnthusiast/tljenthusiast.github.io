@@ -203,10 +203,14 @@ WISO.net für Hochschulen
 
 ## BvD (von Moody's)
 
+Stärke: M&A, Konzernstruktur 
+
 ### ORBIS
 
 Europäische Unternehmensdaten 
 --> Ratings, FInanzhistorie, Patente, Compliance 
+Patente und Trademarks
+
 
 ### Markus 
 
@@ -479,7 +483,7 @@ Managerprofile|GENIOS Manager Dossiers|Politikerbiogrpahen|People in Business|Eu
 |Deutsch|Deutsch|Deutsch|Englisch|Englisch
 
   
-## Managerdossiers ( genius )  
+## Managerdossiers (GENIOS)  
 
 ## Orbis: Wer sitzt im Management  
 
