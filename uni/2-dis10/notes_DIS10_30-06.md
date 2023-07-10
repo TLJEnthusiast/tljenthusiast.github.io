@@ -170,7 +170,17 @@ federal law and EU law and regulations for EU countires and Kanada, Australia, U
 
 ## Genios  
 
-Auftragsrecherche auch möglich  
+Handelsblatt Group, FAZ und former GBI owners  
+--> überwiegend Deutsche Quellen
+
+- Unternehmensinformationen  
+- Fachzeitschriften 
+- regionale Tagespresse / Tages- und Wochenzeitungen  
+- originale Pressearchive (FAZ, HB, Börsenzeitung, Die Welt, SZ)
+- Personeninformationen  
+Auftragsrecherche auch möglich    
+
+WISO.net für Hochschulen 
 
 ## ProQuest
 
@@ -190,6 +200,23 @@ Auftragsrecherche auch möglich
 - conference proceedings
 - dissertationen  
 - 1 Mio. E-Books
+
+## BvD (von Moody's)
+
+### ORBIS
+
+Europäische Unternehmensdaten 
+--> Ratings, FInanzhistorie, Patente, Compliance 
+
+### Markus 
+
+Unternehmen aus D, AU und Luxemburg welche wirtschaftlich aktiv sind
+- Kernfinanzdaten und internationale Beteiligungsstrukturen 
+
+### Zephyr
+
+Datenbank für weltweite Finanzdaten und Gerüchte 
+- Schwerpunkt: Beteiligungsdaten und Konzernstruktur, M&A
 
 ## Echobot / Dealfront 
 
@@ -418,6 +445,8 @@ eigene Verbändennamen kennen!
 
 # 14. Press News
 
+Blendle APP als Sammlung einiger Zeitschriften 
+
 ---
 
 <a name="15"></a>
@@ -479,6 +508,10 @@ Einige Firmen:
 ### International Patent DOcumentation Center (INPADOCDB)
 
 ### CapIus (Patentbehörde, asiatische Patente)
+
+### ORBIS von BvD
+
+### Lexis
 
 ## Notes / Weiteres 
 
@@ -571,7 +604,7 @@ Market and indsutry information
 Distributionskanäle  
 fachzeitschriften --> Genios (LexisNexis auch)  
 
-Blendle APP Tageszeitschriften und Zeitungen  
+
 
 
 
